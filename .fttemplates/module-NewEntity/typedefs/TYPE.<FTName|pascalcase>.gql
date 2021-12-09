@@ -1,4 +1,0 @@
-type <FTName|pascalcase> {
-	id: String
-	name: String
-}

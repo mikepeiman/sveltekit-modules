@@ -1,3 +1,0 @@
-extend type <OnWhatEntity|pascalcase> {
-	<FTName|camelcase>s: [User!]!
-}
