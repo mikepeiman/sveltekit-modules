@@ -1,0 +1,4 @@
+extend type Query {
+	theme(id: String!): Theme
+	themes: [Theme!]!
+}
